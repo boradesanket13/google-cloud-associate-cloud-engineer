@@ -12,7 +12,7 @@
 # Official Documentation
 - [x] Official Google Cloud Platform documentation: https://cloud.google.com/docs  
 
-- [x] [Offical documentation of each point in syllabus](https://www.cloudadvocate.net/p/associate-cloud-engineer-study-notes.html)
+- [x] [Official documentation of each point in syllabus](https://www.cloudadvocate.net/p/associate-cloud-engineer-study-notes.html)
 
 
 # Flowcharts
@@ -38,8 +38,10 @@
 - [ ]  https://medium.com/@fahed.dorgaa/i-have-passed-the-associate-cloud-engineer-exam-373076d07288
 
 # Practice Questions
+#### These question are NOT actual exam questions. 
+These are just for practicing and understanding your strong and weak areas during the preparation. 
 
-- [x] [22 Questions] [Google](https://docs.google.com/forms/d/e/1FAIpQLSfexWKtXT2OSFJ-obA4iT3GmzgiOCGvjrT9OfxilWC1yPtmfQ/viewform) 
+- [x] [22 Questions] [Associate Cloud Engineer Practice Exam](https://docs.google.com/forms/d/e/1FAIpQLSfexWKtXT2OSFJ-obA4iT3GmzgiOCGvjrT9OfxilWC1yPtmfQ/viewform) 
 
 - [x] [20 Questions] [AwesomeGCP Youtube](https://www.youtube.com/playlist?list=PLQMsfKRZZviRwqJwNmh1eAWnRMvlrk40x)   
 
@@ -51,7 +53,7 @@
 
 - [x] [25 Questions] [Karaniph](https://karaniph.com/google-cloud-associate-cloud-engineer-free-practice-test/)  
 
-- [ ] [376 Questions] [Learn Good](https://www.learngood.com/#/course/Google%20Cloud%20Engineer) 
+- [x] [376 Questions] [Learn Good](https://www.learngood.com/#/course/Google%20Cloud%20Engineer) 
 
 - [ ] [179 Questions] [Ditectrev](https://github.com/Ditectrev/Google-Cloud-Platform-GCP-Associate-Cloud-Engineer-Practice-Tests-Exams-Questions-Answers) 
 
@@ -139,7 +141,7 @@ https://cloud.google.com/sdk/docs/cheatsheet#understanding_commands
 
 
 
-### Tips: Before starting preparation:
+### Points to note before starting preparation:
 - Read and understand the ACE study guide
 
 
@@ -147,7 +149,7 @@ https://cloud.google.com/sdk/docs/cheatsheet#understanding_commands
 
 
 
-### Tips: During preparation:    
+### How to prepare:    
 - Take notes so that you’ll remember them.
 
 - Hands On: Don’t forget to do the hands-on practice as it will become easier for you to answer the questions.
@@ -164,22 +166,18 @@ https://cloud.google.com/sdk/docs/cheatsheet#understanding_commands
  
 - Play around with the GCP Pricing Calculator.
 
-- Get hands-on practices on CLoud Skill Boost.
 
+### How to study one week before the exam
 
-
-### Tips: One week before the exam
-
-- Take the Associate Cloud Engineer practice exam one week before the Certification exam. So, you can analyze your knowledge and check where you stand.
+- Take the [Associate Cloud Engineer practice exam](https://docs.google.com/forms/d/e/1FAIpQLSfexWKtXT2OSFJ-obA4iT3GmzgiOCGvjrT9OfxilWC1yPtmfQ/viewform) one week before the Certification exam. So, you can analyze your knowledge and check where you stand.
 
 - Brush up the topics which you’re not sure before the exam.
 
-- Understand the GCP services with the help of Google Cloud Cheat Sheet.
+- Revise the GCP services with the help of Google Cloud Cheat Sheet and self made notes.
 
-### Tips: Starting the exam
+### How to start the exam on exam day
 - Your surroundings will be inspected. It should be free from clutter or any incriminating materials. It’s you, your computer, and the remote proctor who has access to your webcam and microphone. They can see and hear you for all 2 hours of the exam.
 
-https://sathishvj.medium.com/taking-the-google-cloud-certification-online-exam-a8d5a8d18550
 
 1. Ten minutes prior to the exam time, log in into your [Webassessor account](https://www.webassessor.com/wa.do?page=publicHome&branding=GOOGLECLOUD)
 
@@ -195,7 +193,9 @@ https://sathishvj.medium.com/taking-the-google-cloud-certification-online-exam-a
 
 7. Voilla! You can start your exam.
 
-### Tips: How to attempt the question
+Read this blog for detailed process: [Medium](https://sathishvj.medium.com/taking-the-google-cloud-certification-online-exam-a8d5a8d18550) 
+
+### How to attempt the question
 - Read entire question once/twice  
 
 - Review it carefully since a single word can make the difference  
@@ -209,9 +209,13 @@ https://sathishvj.medium.com/taking-the-google-cloud-certification-online-exam-a
 - If you are not able to solve the question, flag it for going back to again, this practice will save you from over thinking and losing valuable time.    
 
 
-### Tips: During the exam
+### During the exam
 - Before submitting the test make sure you review all selected options once again.  
 
 - There might be a scenario where two options are really close to each other both of them may seem correct then, in that case, read the question 2–3 times find out what differentiates the two options and select the appropriate one.  
 
+### After the Exam
 
+- Passed/Fail result will be displayed after the survey. 
+
+- Google doesnt give scorecard. Certificate is sent on mail within 10 days after the exam.
