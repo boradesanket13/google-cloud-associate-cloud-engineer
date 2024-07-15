@@ -1,3 +1,9 @@
+# Google Associate Cloud Engineer Exam A to Z FREE Resources
+
+# IMP NOTE:
+
+Please note that I have no association with any training companies or third parties links used in this repository. This repository is freely available to help folks understand Google Cloud and prepare for Google Associate Cloud Engineer Exam for FREE.
+
 # Syllabus and Exam structure  
 - [x] [ACE Exam Official Details Page](https://cloud.google.com/learn/certification/cloud-engineer)   
 - [x] [Exam Guide](https://cloud.google.com/learn/certification/guides/cloud-engineer)   
